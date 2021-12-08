@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670229541375",
+    "firebase_url": "https://eplhouse-fcm.firebaseio.com",
+    "project_id": "eplhouse-fcm",
+    "storage_bucket": "eplhouse-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670229541375:android:448ced649861fcefd2f7ca",
+        "android_client_info": {
+          "package_name": "com.eplhouse.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670229541375-96617uos7dadhd62rcp3ri20id0i31m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eplhouse.fcm",
+            "certificate_hash": "1abf0af78cf4c8c4051409fa9acf2a66a9b56de1"
+          }
+        },
+        {
+          "client_id": "670229541375-erd5rd17p3vi6mv1ddc02r8audosskab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3lGOtli_AlSZKAaxwfrRPaPKd1u8GHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670229541375-erd5rd17p3vi6mv1ddc02r8audosskab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
